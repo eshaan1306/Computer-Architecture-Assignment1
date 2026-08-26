@@ -1,0 +1,16 @@
+# gem5 simulation output
+m5out/
+results/raw/
+
+# Compiled binaries / objects
+*.o
+*.elf
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary/editor files
+*.swp
+*~
+.DS_Store
