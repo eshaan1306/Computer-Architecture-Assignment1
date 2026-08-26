@@ -14,3 +14,7 @@ __pycache__/
 *.swp
 *~
 .DS_Store
+
+# Generated benchmark files
+*.riscv
+output_*.txt
