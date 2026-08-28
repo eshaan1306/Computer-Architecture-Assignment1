@@ -1,0 +1,3 @@
+cpu,l2_size_kib,l2_assoc,l3_size_mib,l3_assoc,sim_ticks,sim_insts,l2_miss_rate,l3_miss_rate
+timing,512,4,1,8,978000084000,305769008,0.351769,0.705563
+o3,512,4,1,8,143552496000,305769008,0.354577,0.705698
