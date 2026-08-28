@@ -1,0 +1,9 @@
+CPU,L3 Configuration,L3 Miss Rate (%),Simulation Ticks
+RiscvTimingSimpleCPU,"1 MiB, 8-way",70.5563,978000084000
+RiscvTimingSimpleCPU,"1 MiB, 16-way",73.8284,978537336000
+RiscvTimingSimpleCPU,"2 MiB, 8-way",27.5278,970015703000
+RiscvTimingSimpleCPU,"2 MiB, 16-way",30.0718,970506091000
+RiscvO3CPU,"1 MiB, 8-way",70.5698,143552496000
+RiscvO3CPU,"1 MiB, 16-way",73.8405,143641548000
+RiscvO3CPU,"2 MiB, 8-way",27.5894,143282605000
+RiscvO3CPU,"2 MiB, 16-way",30.1315,143705274000
